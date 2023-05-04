@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ariel Moreshet </h1>
 <h3 align="center">A passionate backend developer from Israel</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
-- 📫 You can talk to me by email **arialaamm@gmail.com**
+- 📫 You can talk to me by email *arialaamm@gmail.com*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/ariel-moreshet-75a44923a/" target="blank">
