@@ -1,7 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Ariel Moreshet </h1>
+
 <h3 align="center">A passionate backend developer from Israel</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
-- 📫 You can talk to me by email *arialaamm@gmail.com*
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+
+
+📫 How to reach me **arialaamm@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/ariel-moreshet-75a44923a/" target="blank">
@@ -20,13 +24,9 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
 </p>
-<div>
-  <a href="https://github.com/arielaamm/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arielaamm&show_icons=true" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielaamm&hide=jupyter%20notebook,Python&langs_count=4&layout=compact" />
 
-</a>
-<!-- <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielaamm&langs_count=10" />
-</a> -->
-  </div>
+<p><br><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arielaamm&show_icons=true&locale=en&layout=compact" alt="arielaamm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arielaamm&show_icons=true&locale=en" alt="arielaamm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arielaamm&" alt="arielaamm" /></p>
